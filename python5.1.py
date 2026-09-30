@@ -32,4 +32,3 @@ print("Meu novo item favorito é:",fav[fav_thing])
 #9
 for item in fav:
     print(item, fav[item])
-
